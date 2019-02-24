@@ -22,5 +22,9 @@
     "stylus-loader": "^3.0.1",
     "vue-cli-plugin-vuetify": "^0.4.6",
     "vuetify-loader": "^1.0.5"
+  },
+  "engines":{
+	"node": "10.8.0",
+	"npm": "6.2.0"
   }
 }
